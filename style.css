@@ -6,3 +6,9 @@ background-color: orange;
 border-color: white;
 cursor: pointer;
 }
+
+.title {
+font-family: Roboto;
+color: orangered;
+font-size: 20px;
+}
